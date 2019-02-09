@@ -1,0 +1,2 @@
+Maior numero:999970
+Tempo gasto em milissegundos:1549671641247.1804
